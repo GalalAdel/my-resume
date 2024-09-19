@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="my-resume">
+    <title>Galal Adel - CV</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Galal Adel</h1>
+        <p>Dubai, UAE | +971 55 488 3678 | <a href="mailto:galalalpop33@gmail.com">galalalpop33@gmail.com</a></p>
+        <p>Date of Birth: 15/06/2001 | Nationality: Egyptian</p>
+        <p><a href="https://www.behance.net/galaladel74" target="_blank">Behance Portfolio</a></p>
+    </header>
+
+    <section>
+        <h2>Professional Summary</h2>
+        <p>Deadline-driven Graphic Designer with over 4 years of industry success. Focused on overseeing projects from concept to final delivery. Successfully creates brand messages, strategies and key graphic productions. Resourceful and hardworking with vendor sourcing expertise and empowering leadership skills. Hard-working graphic designer with strong organisational skills. Achieves company goals through exceptional planning and prioritisation.</p>
+    </section>
+
+    <section>
+        <h2>Work History</h2>
+
+        <h3>Graphic Designer & Content Writer</h3>
+        <p><strong>Modern Vision - Dubai, UAE</strong> | 06/2024 - 09/2024</p>
+        <ul>
+            <li>Managed and designed social media posts and campaigns.</li>
+            <li>Wrote marketing content for social media.</li>
+            <li>Designed company websites and ensured brand consistency.</li>
+            <li>Created logos, visual identities, and corporate brochures.</li>
+            <li>Edited videos and compiled materials for video production.</li>
+            <li>Designed various print materials, including business cards and banners.</li>
+            <li>Helped multiple companies develop modern and cohesive visual identities.</li>
+        </ul>
+
+        <h3>Graphic Designer</h3>
+        <p><strong>Golden Access - Al Ain, UAE</strong> | 09/2023 - 02/2024</p>
+        <ul>
+            <li>Worked on designing branding for companies and ensuring that the designs are attractive and inspire creativity.</li>
+            <li>Paid attention to international standards in size and format.</li>
+            <li>Roll-up and banner design for conferences, growing companies, and Emirati government schools.</li>
+        </ul>
+
+        <h3>Graphic Designer</h3>
+        <p><strong>UAEFMA - Dubai, UAE</strong> | 03/2024 - 06/2024</p>
+        <ul>
+            <li>Designed graphic elements for print ads, product literature, and social media.</li>
+            <li>Handled marketing creation, design, and implementation across company website, external advertising, and social media.</li>
+            <li>Liaised with marketing and PR colleagues to promote special events in social calendars.</li>
+            <li>Facilitated communication and collaboration across project teams and advocated for design vision.</li>
+        </ul>
+
+        <h3>Graphic Designer & Photographer</h3>
+        <p><strong>Digital Express - Cairo, Egypt</strong> | 03/2020 - 05/2023</p>
+        <ul>
+            <li>Designed engaging brochures, banners, and signs for printing.</li>
+            <li>Oversaw design development from concept to completion, including branding graphics, print design, and marketing collateral.</li>
+            <li>Created quality, high-res digital image files for use in digital and traditional printing methods.</li>
+            <li>Delivered client projects on time, within budget, and to strict deadlines.</li>
+            <li>Mastered Adobe Creative Suite and Photoshop Illustrator to support design work and image editing needs.</li>
+            <li>Used Photoshop to edit, retouch, and color-correct photos to task specifications.</li>
+            <li>Photographed high-quality images for both print and internet distribution.</li>
+            <li>Resized photographs for use on social media platforms and websites.</li>
+            <li>Retouched images to achieve the desired finish within agreed timelines.</li>
+            <li>Addressed customer issues with compassion and professionalism, ensuring swift, successful resolution.</li>
+        </ul>
+
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>Social media graphics</li>
+            <li>Image manipulation</li>
+            <li>Print graphics</li>
+            <li>Illustration</li>
+            <li>Creativity</li>
+            <li>Research skills</li>
+            <li>Work with the team</li>
+            <li>High work pressure tolerance</li>
+            <li>Adobe Illustrator</li>
+            <li>Adobe Photoshop</li>
+            <li>Adobe After Effects</li>
+            <li>Corel Draw</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+        <p><strong>Bachelor of Arts, Decoration and Architecture</strong> | South Valley University, Egypt | 08/2018 - 07/2022 | Excellent</p>
+        <p><strong>Bachelor's degree, Graphic Design</strong> | Workforce, Egypt | 01/2023 - 05/2023 | Excellent</p>
+    </section>
+
+    <section>
+        <h2>Languages</h2>
+        <ul>
+            <li>Arabic: Native</li>
+            <li>English: Upper Intermediate</li>
+        </ul>
+    </section>
+</body>
+</html>
